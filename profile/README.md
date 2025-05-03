@@ -12,7 +12,7 @@ We are a group of friends studying **Media Technology** at **Linköping Universi
 A web-based AI project that classifies images of **dogs** and **cats** using machine learning models.
 
 - **Tech Stack**: Python, Flask, JavaScript
-- **Demo**: [[ML-Classifier](https://tnm119-dog-cat-classifier.vercel.app/)]
+- **Demo**: [ML-Classifier](https://tnm119-dog-cat-classifier.vercel.app/)
 
 ### 🌐 **Go + Next.js with Docker**  
 A full-stack project that combines a **Go backend** with a **Next.js frontend**, all containerized in **Docker** for easy deployment.

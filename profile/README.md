@@ -1,34 +1,34 @@
-# Skill Issue Coding 👾
+# Skill Issue Coding
 
-We are a group of friends studying **Media Technology** at **Linköping University**. Our main interests include:
+We are a collaborative group of M.Sc. students in Media Technology at Linköping University. Our organization focuses on applying modern software engineering practices to full-stack development, machine learning, and interactive web applications.
 
-- 🤖 **AI** 
-- 🌐 **Web Development**
-- 🎮 **Game Development**
+## Featured Projects
 
-## Our Projects 🚀
+### OrdioArena
+A real-time multiplayer web game centered around Swedish word competition, featuring game modes like Impostor and Anti-Match. It utilizes NLP-powered word similarity via word2vec embeddings to evaluate player inputs. The architecture features a Go backend utilizing WebSockets for server-side state management, paired with a Next.js/React frontend.
+**Tech Stack:** Go, TypeScript, Next.js, WebSockets
 
-### 🐶🐱 **AI Web Project**  
-A web-based AI project that classifies images of **dogs** and **cats** using machine learning models.
+### Movie Recommendation System
+Developed for the Machine Learning for Social Media course (TNM108), this project explores different approaches to recommendation engines. It implements both a traditional machine learning recommendation algorithm and a Generative AI (LLM) based approach.
+**Tech Stack:** Python, Machine Learning, LLMs
 
-- **Tech Stack**: Python, Flask, JavaScript
-- **Demo**: [ML-Classifier](https://tnm119-dog-cat-classifier.vercel.app/)
+### Image Classification Model
+A computer vision project that classifies images of cats and dogs. The underlying model utilizes the Histogram of Oriented Gradients (HOG) feature descriptor combined with a standard classifier to process and predict the image contents. The project includes a web interface for deployment.
+**Tech Stack:** Python, Flask, JavaScript
 
-### 🌐 **Go + Next.js with Docker**  
-A full-stack project that combines a **Go backend** with a **Next.js frontend**, all containerized in **Docker** for easy deployment.
+### Shopping Card SDK
+A UI library constructed with Expo and React Native. This SDK implements established design patterns, including Compound Components, Context-driven state management, and mathematical animation interpolation.
+**Tech Stack:** TypeScript, React Native, Expo
 
-- **Tech Stack**: Go, Next.js, Docker, PostgreSQL
+## Contributing
 
-## How to Contribute 💻
+We welcome contributions to our open-source projects. To contribute:
 
-1. Fork the repository 🍴
-2. Create a new branch for your feature 🌱
-3. Make your changes ✏️
-4. Write tests (if applicable) 🧪
-5. Open a pull request to contribute 🔄
+1. Fork the target repository.
+2. Create a dedicated feature branch.
+3. Commit your changes and ensure any relevant tests are included.
+4. Submit a pull request for review.
 
-## Contact Us 📬
+## Contact
 
-Feel free to reach out to us via issues or pull requests!
-
-Happy coding! 🎉
+For questions or collaboration inquiries, please open an issue or submit a pull request on the relevant repository.
